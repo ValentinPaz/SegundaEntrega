@@ -240,3 +240,12 @@ form .form-control {
     position: relative;
     z-index: 2;
 }
+
+.track {
+    background-image: url(../img/fondo3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 2;
+}
